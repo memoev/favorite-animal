@@ -1,0 +1,28 @@
+body {
+    background: black; 
+    color: beige
+}
+
+#wrapper {
+    margin: 0 auto;
+    width: 960px;
+    background: gray;
+    overflow: auto;
+}
+
+h1 {
+    margin-left: 500px;
+    color: white; 
+    font-size: 50px;
+}
+
+img {
+    float: right;
+    height: 400px; 
+    width: 600px;
+}
+
+p.aroundImg {
+    background: burlywood;
+    margin-top: 0px;
+}
